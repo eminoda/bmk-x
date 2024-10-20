@@ -1,7 +1,12 @@
-# Tauri + React + Typescript
+# 超级书签 bmk-x
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## 功能
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- AppLink
+  - [ ] 一键打开程序
+  - [ ] 可搜索电脑程序
+- WebRecord
+  - [ ] 书签自主分类维护
+  - [ ] 可编辑进入网站执行位置
+- DevShell
+  - [ ] 程序脚本集合
